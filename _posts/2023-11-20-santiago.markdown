@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Viagem para Santiago - Dia 1 e 2"
-date: 2023-11-20 20:15:18 -0300
+date: 2023-11-20 15:15:18 -0300
 categories: viagem
 tags: santiago
 ---
