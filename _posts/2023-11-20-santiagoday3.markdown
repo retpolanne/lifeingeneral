@@ -23,3 +23,9 @@ Vou com minha amiga para o Bar Chueca, de propriedade de mulheres lésbicas e LG
 ## Planos para amanhã
 
 De manhã, talvez, visitar o museu dos diretos humanos. De tarde, sair com minha amiga que conheci no metrô. De noite, sair com meu amigo da empresa que mora aqui.
+
+## O que fiz 
+
+Fui ao museu del sonido, um museu muito chiquito e simpático em que comprei uma caixinha musical. Depois segui ao museu da memória e dos direitos humanos, um museu super importante, talvez o mais importante da América Latina. É um museu pesado, com uma história que nunca deve se repetir, mas super importante de dar uma passada. No final, entrei na lojinha do museu e comprei um pôster e um boneco do Juan Carlos Bodoque, do 31 Minutos!.
+
+Depois, fui de Uber até o Bar Chueca encontrar minha amiga. Tomei pisco e cerveja artesanal e comi papas con palda, que seria como o abacate de lá. Foi muito bom encontrar minha amiga e voltei para o AirBnB de Uber também. 
