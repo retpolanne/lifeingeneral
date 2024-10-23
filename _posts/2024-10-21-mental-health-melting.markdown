@@ -6,33 +6,99 @@ categories: mental-health
 tags: suicide
 ---
 
-Last week I've spent two days on a mental health clinic. I was anxious and feeling extremely suicidal. 
+⚠️ __Content Warning - suicide, trauma and other sensitive topics. Reader
+discretion is advised._
 
-There were a lot of things going on that started making me feel so hopeless. 
+This is another one of those stream of consciousness posts that I post quite
+often.
+This time, it's about my recent journey with depression, suicidal ideation,
+landing on a shady mental health clinic and trying to fix my own brain.
 
-## Health in general – and having trouble trusting health professionals
 
-I'm overweight, due to a bunch of circunstances. Being overweight is something that health professionals tend to be really harsh about. 
-I used to go to an endocrinologist for my HRT and she started to prescribe Wegovy to me, for weight loss, and she started pressuring me
-to exercise and eat better. I understand that it is worrisome to be overweight, but it hurts my trust when someone seems to be sold to the
-big pharma and tries to push a very expensive medicine on me.
+## What happened?
 
-I also followed up with a nutritionist and it started feeling like I wasn't going anywhere. My problem with food is not just about myself. It's systemical. 
-I don't have time to eat well because I have to work, because I lack energy, because I have a lot to do, because I'm autistic. It's not a matter of 
-"being mindful" or simply "eating well". It's a matter of changing how we deal with other problems that cause us to not have time to eat better. 
+Last week, I had an intense anxiety crisis with suicidal ideation that led me to
+get help from my health insurance's therapists who thought it would be a good
+idea to jail me on a mental health clinic (a.k.a. psychiatric hospital).
 
-I ditched her. I also ditched my endocrinologist. And my therapist and psychiatrist. It's so hard to find out professionals that are good, that understand
-you well, that are anticapitalist and something that I've realized is that I can't seem to find good professinoals that will be covered by insurance. 
+I felt very bad and ashamed of my own illness and tried really hard to get out
+of there. It was awful, I was so afraid of being there. Thankfully, people I met
+there were nice, and my partner and friends helped me a lot to get away from
+there and are supporting me now.
 
-I also tried ditching my meds – turns out that left me in a more suicidal state.
+## What led to this?
 
-I landed on a mental health clinic – a.k.a. mental hospital. It was awful. No phone for hours, a lot of people I didn't know, no windows, no contact 
-with the outside world. A prison for mentally ill people. 
+I believe I've always been quite sensitive. It wouldn't take much for me to
+think that it's the end of the world, or that I'm dying, or that I should've
+never been born.
 
-Why do they treat mentally ill people like this? Why can't mentally ill people be treated better? I don't understand.
+I've also spent years being a socially awkward person, being diagnosed with
+social anxiety, autism, borderline personality disorder, etc. I believe that
+spending years feeling socially inept made my brain kind of wired in a way that
+took me a long time to fix and that has caused a lot of traumas in the way.
+I have a tendency to isolate, to feel like I'm a problem to others, that I'm
+inconvenient, that I'm a difficult person. Being able to make friends has been
+something I've only recently figured out how to properly do.
 
-## Friendships that were gone
+After transition, I thought things were "fixed". However, these feelings of
+inadequacy were still buried deep down. At any moment, they would bottle up and
+explode.
 
-## Left wing people bullshitting about trans and non-binary people
+{% include spotify-song.html id="2c7AnyxXkbemyTEpzprQVx" %}
 
-## Modern life is tiring
+## Other things
+
+These last few weeks, or maybe months, years, have been quite harsh to me.
+
+- Made some friends, some of them were gone with harsh, stupid letters;
+
+- Parents separation, which took my by surprise and unprepared;
+
+- Living alone;
+
+- Figuring out gender and sexuality.
+
+Friendships probably were the hardest and harshest to me. I think I never felt
+more alone.
+
+I have a trait of being a people pleaser as well, probably due to trauma. I
+don't want people to be angry at me. I hate cristicism. Especially because I
+always try to fix my bad traits and I take everything so personally. I want to
+keep everybody around me happy with my presence.
+
+When I can't, it's the end of the world. It's so hard for me to figure out that
+people have their own moment. That maybe they are dealing with some shit
+themselves. 
+
+Rejection anxiety has been the worst recently. I'm so afraid that my
+relationships become fragile things.
+
+I also feel like I'm the hedgehog in the hedgehog's dilemma – I want people
+around, but I seem to hurt people every time.
+
+I have many, many reasons to hate myself.
+
+I've been recently quite obsessed with suicide (or maybe that has been an
+obsession for years). 
+
+{% include spotify-song.html id="7mKTTrCsLQhwufBwCyWCpY" %}
+
+"I never wanted to be born!" yelled young Anne so many times.
+
+I think I was overall a depressed kid in a weird world that I didn't
+understand. So afraid.
+
+And I'm not even talking about the systemic shit we've all been through.
+Transness is the new scapegoat for alt-rights and liberals alike.
+The right-wing already hated us, but now the left-wing shows it's
+hypocritical face. It seems like everybody hates transgender people
+for being who they really are. How can I live in a world without any
+political support? How to be optimistic?
+
+Aside from that, I've been dealing with some self-image problems that have been
+hard to fight. I've talked about this before in a previous post.
+
+I want to die. Now.
+Let. me. die.
+
+Goodbye.
