@@ -1,0 +1,70 @@
+---
+layout: post
+title: "Lain, OK Computer and the brainrot"
+date: 2024-12-18 13:49:02 -0300
+categories: computer-anxiety
+tags: lain radiohead
+---
+
+One of my favorite albums ever made is OK Computer, by Radiohead. A few years ago I was extremely obsessed with it, 
+and I was the one who found the lost music video for Let Down, after digging through a lot of old portfolios around the old
+side of the internet.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DNNNSYgmaYs?si=6_Wm1DmqDDEGK-0R" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+OK Computer doesn't really talk about technology, regardless of its title. The context where OK Computer was envisioned is somehow related to the old internet [1] with its nerdy dial-up fandom.
+
+However, OK Computer is, for me, about the crippling anxiety that started consuming us as things got too fast too quickly. 
+
+Computers are fascinating machines, the internet is an amazing technology, but these tech advancements have boosted this anxiety that something is not right.
+
+![Fitter Happier](/assets/img/fitter.gif)
+
+During the OK Computer release and subsequent anniversaries, Radiohead 
+released a lot of things related to floppy disks and ZX Spectrum programs and a documentary, Meeting People is Easy, which I love a lot. 
+
+I can't really put my finger on why OK Computer reminds me of nowadays.
+It was envisioned in a time where computers were bulky machines made 
+for nerds. Companies were trying to push people into using AOL and
+emails, or to make their own websites, and some small companies such as
+Google, Amazon and eBay were showing up with its business model focused
+completely on nerd sniping.
+
+Tracks such as Fitter Happier and titles such as Meeting People Is Easy
+(which for me is rather ironic) only reeinforce this anxiety, and Paranoid Android
+tells us that we should either be paranoid and anxious about the world, or 
+maybe we should forget about it and try to live our best. 
+
+-------------------------------------------------------------------------------
+
+Serial Experiments Lain was also created near this time, and the protagonist, Lain,
+who was rather disconnected and afraid of computers, decide to connect herself, a little
+too much if I must say. 
+
+The series is quite difficult to understand, but it talks a bit about not just, again,
+the anxiety of being connected, but also the loss of self – Lain's personality get mixed with
+her Wired persona, in a way where we don't know exactly who is she. 
+
+------------------------------------------------------------------------------
+
+We've been living the so-called "modern life" for almost 40 years now. 
+To me, things were already pretty dynamic. 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QI2IlA3ztIo?si=APS7e3VQyNG_2WWx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+I love this movie, Koyaanisqatsi. It shows, as the subtitle says,
+"Life out of balance" – it's rare and uncommon for us to reduce our pace now,
+but things have been moving uncomfortably fast for a while.
+
+-------------------------------------------------------------------------------
+
+Why am I writing about this stuff? Well, I find solace in writing, and this blog of mine is
+a bit of what we used to have back in the 2000s, when you had minimal Javascript on the so called
+world-wide web. When the economy of attention wasn't an economy, but rather open-hearted attention,
+free as in freedom. Things on internet nowadays are bland, the magic of being connected is lost.
+
+I love computers, but I hate modern internet in a way.
+
+Anne.
+
+[1] [Internet Explorers: The Curious Case of Radiohead’s Online Fandom](https://pitchfork.com/features/article/9890-internet-explorers-the-curious-case-of-radioheads-online-fandom/)
