@@ -4,6 +4,7 @@ title: "Self-loathing queen"
 date: 2025-02-09 20:07:40 -0300
 categories: depression 
 tags: suicide
+published: false
 ---
 
 It's all about taking the easy way out for you, I suppose.

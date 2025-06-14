@@ -3,6 +3,7 @@ layout: post
 title: "The urge to disappear from other people's minds"
 date: 2025-02-22 20:31:52 -0300
 categories: depression
+published: false
 ---
 
 ![Lain Existence](/assets/img/lain-existence.jpg)

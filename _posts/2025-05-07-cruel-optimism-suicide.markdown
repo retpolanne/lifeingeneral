@@ -3,6 +3,7 @@ layout: post
 title: "Things will get better – on cruel optimism and suicide"
 date: 2025-05-07 17:51:14 -0300
 categories: suicide
+published: false
 ---
 
 People always tell me the most blatant lies. They tell me

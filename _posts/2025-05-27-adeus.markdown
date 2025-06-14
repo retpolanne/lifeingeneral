@@ -3,6 +3,7 @@ layout: post
 title: "Adeus"
 date: 2025-05-27 21:36:00 -0300
 categories: goodbye
+published: false
 ---
 
 O dia chegou. Já tem muito tempo em que eu repito: tal ano
