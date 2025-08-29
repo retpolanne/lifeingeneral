@@ -32,7 +32,7 @@ Eu sempre amei olhar para a janela do carro/ônibus/metrô e imaginar cenas coti
 No começo, pegar o metrô era medonho. Ir até outra parte da cidade me dava um medo enorme. E se eu caísse no trilho? E se eu me jogasse? Eu estava num momento de extrema depressão pra estar andando sozinha pela cidade. Só que eu não me deixava ser vulnerável. E não pedia ajuda, infelizmente. 
 
 ## Sozinha
-![Alone](/assets/img/Alone.jpeg)
+![Alone](/assets/img/Alone.gif)
 
 Em 2020, eu decidi me mudar da casa dos meus pais e morar sozinha. Eu tinha 21 e um salário que, apesar de invejável para muitas pessoas de 21, era bem pouco pra um aluguel. Mas eu decidi me mudar mesmo assim e tentar viver um pouco sozinha. Durou 3 meses, pois foi no mesmo ano que a pandemia estourou. 
 
