@@ -60,7 +60,7 @@ Quando você anda por um lugar lindo em São Paulo, que nos lembra que estamos e
 
 Aos poucos eu fui quebrando a minha ideia de que o Brasil é um país ruim. Claro, ele tem seus problemas. Tem pobreza, tem pessoas em situação de rua, tem negligência governamental, tem violência em alguns lugares (especialmente violência policial), temos problemas de educação (com governadores vendendo a educação pública...). Mas qual país que vive num regime capitalista não tem isso? Os Estragos Unidos estão numa situação bem pior. 
 
-Vamos deixar o viralatismo de lado e viver nosso país e nossas cidades. W
+Vamos deixar o viralatismo de lado e viver nosso país e nossas cidades.
 
 
 	
