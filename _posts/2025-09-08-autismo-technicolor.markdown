@@ -15,7 +15,7 @@ A inspiração desse post foi o livro Unmasking Autism, do Dr. Devon Price, PhD.
 
 Eu era uma criança já muito quirky. Pelo que me lembro, eu chorava muito, me sentia muito melancólica (tal qual o Charlie Brown do Peanuts), e era uma criança muito sensível em vários aspectos. Geralmente os homens da minha família me falavam que chorar era coisa de boiola, ou de Mariquinha. 
 
-![Charlie Brown](/assets/img/Charlie-Brown.gif)
+![Charlie Brown](/assets/img/Charlie-brown.gif)
 
 Além disso, eu tinha muitas sensibilidades sensoriais. Me lembro de chorar porque a manga da minha blusa ficava molhada, ou porque a etiqueta me machucava. Barulhos de aviões e de fogos de artifício eram difíceis de lidar (especialmente fogos, que eram soltos no meu aniversário, pois nasci no dia 1/1). Eu tinha um medo extremo de chuva, que me faziam ter meltdowns sempre. Um medo paranóico de morrer, de ser sequestrada ou de ser raptada. Me lembro de ter tanto medo de barras de cores SMPTE com sons de 1khz que tocavam no início de fitas VHS que meu pai precisava retirar o sinal de áudio do aparelho sempre que eu fosse assistir algo (hoje, áudio e vídeo são hiperfocos meus). 
 
