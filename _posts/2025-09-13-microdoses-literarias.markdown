@@ -9,15 +9,15 @@ Ler, pra mim, sempre foi algo um pouco complicado. Eu aprendi a ler quando tinha
 
 Meu pai sempre me trazia livros da escola onde ele trabalhava. Eram livros lindos, muito bem ilustrados e com temáticas interessantes. Extremamente criativos. Me lembro de livros da Ruth Rocha sobre meios de comunicação que tinha ilustrações lindas e que me deixavam viajar (eu gostava muito das ilustrações e muito pouco de realmente ler). 
 
-![Ruth Rocha](Ruth-rocha.jpeg)
+![Ruth Rocha](/assets/img/Ruth-rocha.jpeg)
 
 Tinham livros sobre aviões, música clássica, educação sexual, ciências e engenharia, entre outros. Me lembro de um, “Tem um cabelo na minha terra” sobre uma minhoca irritada pois havia um cabelo... em sua terra. O livro falava sobre o ciclo da vida, sobre como pessoas morrem e coisas renascem delas. 
 
-![Minhoca](Minhoca.jpeg)
+![Minhoca](/assets/img/Minhoca.jpeg)
 
 Me lembro também de um livro sobre puberdade que meus pais me deram que eu completamente hiperfoquei sobre. 
 
-![Cabelinhos engraçados](Cabelinhos.jpeg)
+![Cabelinhos engraçados](/assets/img/Cabelinhos.jpeg)
 
 Me lembro que meu pai tentava me incentivar a ler livros mais longos. Eu odiava ser cobrada de fazer coisas, mas eu amava quando as coisas me interessavam naturalmente. Eu era hiperfocada em Simpsons, então meu pai me trouxe um livro chamado “Os Simpsons e a Ciência”, que falava sobre episódios de Simpsons que continham mitos e verdades científicas. Além disso, na mesma época, peguei “A Menina que Roubava Livros” pra ler, com muita dificuldade pra manter o foco. Eventualmente terminei o livro, mas confesso que ele me causou um certo trauma de livros longos. 
 
@@ -25,7 +25,7 @@ Aos 10, me lembro que li “Diário de um Banana” e me apaixonei também pela 
 
 Já na ETEC, depois de passar um bom tempo sem ler livros, comecei a ler os livros que me interessavam e me rebelar contra os livros que eram indicados (somente dois me interessaram, Dom Casmurro e Revolução dos Bichos, contra Laranja Mecânica, 2001 e Guia do Mochileiro das Galáxias que eram minha paixão). 
 
-![a edição de Laranja Mecânica que eu tinha](Laranja-mecanica.jpeg)
+![a edição de Laranja Mecânica que eu tinha](/assets/img/Laranja-mecanica.jpeg)
 
 Eu passei a pegar transporte público com frequência e comecei a ler muito no transporte. Li muitos livros interessantes e complexos, gostava muito de ir em livrarias o tempo todo. Alguns livros me interessavam muito, outros menos. 
 
