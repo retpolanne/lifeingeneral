@@ -6,6 +6,8 @@ categories: music
 tags: [music, post-punk, new-zealand]
 ---
 
+Recovered from my old blog, Not Too Amused.
+
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>
 
 A few years ago, I came across this article: [Unraveling the Mystery of Forgotten Seattle Pre-Grunge Band The Macs](https://www.flavorwire.com/411518/unraveling-the-mystery-of-forgotten-seattle-pre-grunge-band-the-macs). It's an article about a completely unknown band from Seattle called The Macs. This post is not exactly about them (although I think I'll cover them in the future. What I really want to talk about is what showed on my Youtube recommendations after I listened to The Macs, a path that led me to a rabbit hole of New Zealand's post punk bands. 
