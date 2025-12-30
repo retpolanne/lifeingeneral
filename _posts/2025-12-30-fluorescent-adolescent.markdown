@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "O mundo parecia bem diferente quando eu era adolescente "
-date: 2026-12-30 08:25:23 -0300
+date: 2025-12-30 08:25:23 -0300
 categories: adolescencia 
 ---
 
