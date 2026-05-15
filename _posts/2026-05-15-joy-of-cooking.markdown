@@ -5,6 +5,8 @@ date: 2026-05-15 07:16:03 -0300
 categories: cooking
 ---
 
+<iframe width="420" height="345" src="https://www.youtube.com/embed/HNEXzMCrqqU"></iframe>
+
 Em 2020, eu comecei a tentar cozinhar mais. Acho que cozinhar era um pouco difícil porque eu tenho muita disfunção executiva. Além disso, minha mãe costumava, mesmo quando eu me propunha a cozinha, fazer as coisas sozinha porque era mais rápido e ela não tinha muita paciência. E também ela sempre me dava bronca se eu sujasse muito a cozinha. 
 
 Em 2023, fui morar sozinha e cozinhar era divertido, mas também complicado. Planejar almoços era sempre complicado, e eu ainda não sabia fazer o básico. Eu também sentia muita fadiga. Então acabei pedindo muito iFood ou saindo muito pra comer, e nisso gastei muita grana e minha saúde se deteriorou. 
