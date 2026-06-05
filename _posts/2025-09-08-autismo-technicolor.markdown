@@ -5,7 +5,7 @@ date: 2025-09-08 02:09:18 -0300
 categories: autismo
 ---
 
-![Color by Technicolor](/assets/img/Technicolor.jpeg)
+![Color by Technicolor](/images/Technicolor.jpeg)
 
 Eu vivi minha vida inteira como autista, mesmo antes de ser diagnosticada. Pois todos sabemos que o autismo é de nascença: você não pega autismo, vacinas não causam autismo, telas não causam autismo. Mas eu sempre fui uma pessoa meio _quirky_, desde criança. Porém, eu mascarei por muito tempo e percebo que ainda mascaro alguns aspectos do meu autismo até hoje (apesar de aceitar muito melhor e de pedir adaptações sempre que possível). 
 
@@ -15,15 +15,15 @@ A inspiração desse post foi o livro Unmasking Autism, do Dr. Devon Price, PhD.
 
 Eu era uma criança já muito quirky. Pelo que me lembro, eu chorava muito, me sentia muito melancólica (tal qual o Charlie Brown do Peanuts), e era uma criança muito sensível em vários aspectos. Geralmente os homens da minha família me falavam que chorar era coisa de boiola, ou de Mariquinha. 
 
-![Charlie Brown](/assets/img/Charlie-brown.gif)
+![Charlie Brown](/images/Charlie-brown.gif)
 
 Além disso, eu tinha muitas sensibilidades sensoriais. Me lembro de chorar porque a manga da minha blusa ficava molhada, ou porque a etiqueta me machucava. Barulhos de aviões e de fogos de artifício eram difíceis de lidar (especialmente fogos, que eram soltos no meu aniversário, pois nasci no dia 1/1). Eu tinha um medo extremo de chuva, que me faziam ter meltdowns sempre. Um medo paranóico de morrer, de ser sequestrada ou de ser raptada. Me lembro de ter tanto medo de barras de cores SMPTE com sons de 1khz que tocavam no início de fitas VHS que meu pai precisava retirar o sinal de áudio do aparelho sempre que eu fosse assistir algo (hoje, áudio e vídeo são hiperfocos meus). 
 
-![SMPTE](/assets/img/Smpte.jpeg)
+![SMPTE](/images/Smpte.jpeg)
 
 Além disso, quando pequena, eu era obcecada por logotipos de estúdios de cinema, como o da Warner e o da 20th Century Fox (até hoje tenho um pouco de hiperfoco). Alguns sons específicos me deixavam fissurada, e eu até hoje tenho muita ecolalia. 
 
-![Fox](/assets/img/Fox.jpeg)
+![Fox](/images/Fox.jpeg)
 
 Na escola, eu costumava ser quieta e um pouco daydreamy. Eu ia muito bem em linguagens, especialmente em inglês. Eu adorava estudar inglês, procurar conteúdo em inglês na internet (geralmente relacionado a logos ou a Nickelodeon). Acredito que isso me fez desenvolver um inglês fluente. 
 

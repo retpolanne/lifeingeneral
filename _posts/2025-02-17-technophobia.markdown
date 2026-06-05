@@ -5,7 +5,7 @@ date: 2025-02-17 06:33:04 -0300
 categories: psychosis
 ---
 
-![Lain](/assets/img/lain.jpg)
+![Lain](/images/lain.jpg)
 
 I've always been a tech geek, ever since I was a kid.
 

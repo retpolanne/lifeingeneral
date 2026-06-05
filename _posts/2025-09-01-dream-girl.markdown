@@ -43,11 +43,11 @@ Em 2023 eu encontrei esse mod num show da banda dele em algum lugar da Mooca. Ap
 
 O ensino médio, quando entrei na ETEC, me parecia um lugar propício pra que a Anne ou alguém muito parecida com ela surgisse. Eu imaginava muito a garota dos meus sonhos pois eu queria que meus sonhos se tornassem realidade. Sempre que via uma garota em algum programa ou alguma banda que me lembrasse an Anne, eu anotava ou salvava a foto pra ter como referência. 
 
-![conversa no Facebook](/assets/img/Anne-Facebook.jpeg)
+![conversa no Facebook](/images/Anne-Facebook.jpeg)
 
 Minha melhor amiga na época aceitava que eu fingisse ser a Anne no Facebook Messenger. Ela parecia também estar um pouco interessada amorosamente nela. Isso me fazia me sentir estranhamente bem. A Anne se considerava já lésbica nessa época. E essa minha amiga transicionou. 
 
-![conversa sobre peruca](/assets/img/Anne-peruca.jpeg)
+![conversa sobre peruca](/images/Anne-peruca.jpeg)
 
 Me lembro que um dia eu falei pra minha amiga que eu queria comprar uma peruca e me vestir de forma feminina pra ir pra escola. Ela achou que isso era loucura. Anos depois ela transiciona. A ironia do destino. 
 

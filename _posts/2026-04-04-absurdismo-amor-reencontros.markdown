@@ -14,7 +14,7 @@ apenas acidentes felizes". Einstein argumentava que "Deus não joga dados" enqua
 Muitas pessoas atribuem os encontros casuais ao destino, ou ao divino, ou ao Universo. Eu acho que precisamos ser mais humildes: Deus, se existir, tem coisas melhores pra fazer, e o Universo é
 grande demais pra se importar. 
 
-![Insignificant Speck of Dust](/assets/img/insignificant.jpg)
+![Insignificant Speck of Dust](/images/insignificant.jpg)
 
 A aleatoriedade da vida pode ocorrer em clusters que não parecem aleatórios, de modo que a vida
 parece menos caótica e mais controlada (spoiler: ela não é). Porém, existem muitas chances para que

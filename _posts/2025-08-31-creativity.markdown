@@ -59,4 +59,4 @@ Aprendi a sentir tédio. E a fazer coisas que sinto vontade de fazer. Eu não me
 
 Me sinto mais criativa. Me sinto mais feliz. 
 
-![Anne](/assets/img/Tv-girl-Anne.jpeg)
+![Anne](/images/Tv-girl-Anne.jpeg)

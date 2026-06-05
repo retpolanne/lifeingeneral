@@ -6,7 +6,7 @@ categories: depression
 published: false
 ---
 
-![Lain Existence](/assets/img/lain-existence.jpg)
+![Lain Existence](/images/lain-existence.jpg)
 
 I want to disappear. One of the easiest ways to disappear is to kill oneself.
 Suicide is not that easy. It's not just a matter of jumping off a building
@@ -29,7 +29,7 @@ if I'm not being seen, thus I don't exist.
 
 Do I exist?
 
-![You don't exist, go away!](/assets/img/exist.png)
+![You don't exist, go away!](/images/exist.png)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6W6HhdqA95w?si=XfyEFOkbP-oINcaj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -40,7 +40,7 @@ The big problem about being human is that not only you are a waste of flesh,
 but you're also a waste of flesh *with feelings*. And you can hurt your feelings,
 and other people's feelings.
 
-![Hedgehog Dilemma](/assets/img/hedgehog.jpg)
+![Hedgehog Dilemma](/images/hedgehog.jpg)
 
 It definitely reminds me of the Hedgehog's Dilemma – we feel the need to connect,
 but we hurt each other doing so. This is painfully human.

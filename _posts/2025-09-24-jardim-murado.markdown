@@ -27,7 +27,7 @@ Eu amo fazer curadoria de conteúdo, especialmente textual. Eu costumava usar ap
 
 Decidi então fazer algumas automações no app de Shortcuts da Apple pra criar um pipeline para salvar conteúdo e arquivar diretamente no Web Archive. 
 
-![Obsidian](/assets/img/Obsidian.jpeg)
+![Obsidian](/images/Obsidian.jpeg)
 
 Os artigos são salvos no meu Obsidian, com backup no meu iCloud Drive (eu sei, big tech). Eu também faço uma requisição para o Web Archive com a URL do artigo para que ele seja salvo, e gero uma URL com tempo próximo do tempo de archiving para que eu possa ter uma versão do site acessível caso eu queira algum asset a mais. 
 

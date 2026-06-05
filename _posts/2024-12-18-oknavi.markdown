@@ -18,7 +18,7 @@ However, OK Computer is, for me, about the crippling anxiety that started consum
 
 Computers are fascinating machines, the internet is an amazing technology, but these tech advancements have boosted this anxiety that something is not right.
 
-![Fitter Happier](/assets/img/fitter.gif)
+![Fitter Happier](/images/fitter.gif)
 
 During the OK Computer release and subsequent anniversaries, Radiohead 
 released a lot of things related to floppy disks and ZX Spectrum programs and a documentary, Meeting People is Easy, which I love a lot. 

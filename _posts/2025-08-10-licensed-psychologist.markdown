@@ -9,7 +9,7 @@ _aviso de gatilho: suicídio_
 
 Eu não sou uma psicóloga licenciada. Sou uma amiga. Me trate como tal.
 
-![The doctor is in](/assets/img/lucy.jpg)
+![The doctor is in](/images/lucy.jpg)
 
 ---
 
